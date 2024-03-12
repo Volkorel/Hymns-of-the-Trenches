@@ -1,0 +1,42 @@
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 0.65
+}
+
+# General Peace:
+# Nothing yet
+
+# General war:
+# Nothing yet
+
+# Atlanticist Peace:
+music = {
+	name = "allies_peace_1"
+	file = "allies_peace_morningofdday.ogg"
+	volume = 0.65
+}
+
+# Atlanticist War:
+# Nothing yet
+
+# Gamleby Pact Peace:
+music = {
+	name = "gamleby_peace_1"
+	file = "axis_peace_krakow.ogg"
+	volume = 0.65
+}
+
+# Gamleby Pact War:
+# Nothing yet
+
+# Latin Peace:
+# Nothing yet
+
+# Latin War:
+music = {
+	name = "latin_war_1"
+	file = "Christ_ist_Erstanden.ogg"
+	volume = 0.65
+}

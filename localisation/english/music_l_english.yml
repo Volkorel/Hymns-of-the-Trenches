@@ -1,0 +1,11 @@
+﻿l_english:
+ # Station Titles
+ gamleby_TITLE:0 "PSiNN UVD-76 - Radio Gamleby"
+ atlantic_TITLE:0 "Oer de See! - Radio Atlantica"
+ latin_TITLE:0 "YkTtL - Radio Maria"
+ 
+ # Songs
+ maintheme:0 "Europe is Dead!"
+ allies_peace_1:0 "Ode to the War of Devastation"
+ gamleby_peace_1:0 "Freie Armee Voran!"
+ latin_war_1:0 "Christ ist Erstanden"

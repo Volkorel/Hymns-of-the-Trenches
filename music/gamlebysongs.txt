@@ -1,0 +1,15 @@
+music_station = "gamleby"
+
+music = {
+	song = "gamleby_peace_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = SOV
+				is_in_faction_with = SOV
+			}
+		}		
+	}	
+}

@@ -1,0 +1,15 @@
+music_station = "atlantic"
+
+music = {
+	song = "allies_peace_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				is_in_faction_with = CAN
+			}
+		}		
+	}	
+}

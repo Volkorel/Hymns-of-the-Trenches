@@ -1,0 +1,15 @@
+music_station = "latin"
+
+music = {
+	song = "latin_war_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = BAY
+				is_in_faction_with = BAY
+			}
+		}
+	}	
+}
