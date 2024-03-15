@@ -5,20 +5,12 @@ music = {
 	volume = 0.65
 }
 
-# General Peace:
-# Nothing yet
-
-# General war:
-# Nothing yet
-
-# Atlanticist Peace:
+### Atlanticists ###
 music = {
 	name = "allies_peace_1"
 	file = "allies_peace_morningofdday.ogg"
 	volume = 0.65
 }
-
-# Atlanticist War:
 music = {
 	name = "Sarie_Marais"
 	file = "Sarie_marais.ogg"
@@ -35,7 +27,7 @@ music = {
 	volume = 0.65
 }
 
-# Gamleby Pact Peace:
+### Gamleby Pact ###
 music = {
 	name = "gamleby_peace_1"
 	file = "axis_peace_krakow.ogg"
@@ -46,20 +38,76 @@ music = {
 	file = "lilimarleen.ogg"
 	volume = 0.65
 }
-
-# Gamleby Pact War:
 music = {
 	name = "Wolfingslied"
 	file = "Wolflingslied.ogg"
 	volume = 0.65
 }
-
-# Latin Peace:
-# Nothing yet
-
-# Latin War:
+music = {
+	name = "Tachanka"
+	file = "Tachanka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Guillotine_Permanente"
+	file = "Guillotine_Permanente.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Oktobersong"
+	file = "Oktobersong.ogg"
+	volume = 0.65
+}
+music = {
+	name = "No_Mercy_to_Atlantists"
+	file = "No_Mercy_to_Atlantists.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ode_to_Frank_Unification"
+	file = "Ode_to_Frank_Unification.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ode_to_Frank_Revolution"
+	file = "Ode_to_Frank_Revolution.ogg"
+	volume = 0.65
+}
+### Latin ###
 music = {
 	name = "latin_war_1"
 	file = "Christ_ist_Erstanden.ogg"
+	volume = 0.65
+}
+
+##### Finnish War ####
+music = {
+	name = "Uraliin"
+	file = "Uraliin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Silmien_Valiin"
+	file = "Silmien_Valiin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Vapaussoturin_Valloituslaulu"
+	file = "Vapaussoturin_Valloituslaulu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sakkijarven_Polkka"
+	file = "Sakkijarven_Polkka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kaenlandi_Polkka"
+	file = "Kaenlandi_Polkka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pa_Vikingtog"
+	file = "Pa_Vikingtog.ogg"
 	volume = 0.65
 }

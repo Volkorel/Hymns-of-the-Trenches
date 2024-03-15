@@ -64,6 +64,10 @@ spriteTypes = {
 		texturefile = "gfx/latin_album_art.dds"
 		noOfFrames = 2
 	}
-
+	spriteType = {
+		name = "GFX_finnish_album_art"
+		texturefile = "gfx/finnish_album_art.dds"
+		noOfFrames = 2
+	}
 
 }

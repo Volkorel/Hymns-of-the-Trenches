@@ -3,6 +3,7 @@
  gamleby_TITLE:0 "PSiNN UVD-76 - Radio Gamleby"
  atlantic_TITLE:0 "Oer de See! - Radio Atlantica"
  latin_TITLE:0 "YkTtL - Radio Maria"
+ finnish_TITLE:0 "OH3SS - Radio Finnlaen"
  
  # Songs
  maintheme:0 "Europe is Dead!"
@@ -14,3 +15,15 @@
  Lili_Marleen:0 "Lili Marleen"
  La_Cucaracha:0 "La Cucaracha"
  Erika:0 "Erika"
+ Uraliin:0 "To Bolghar Mountains"
+ Silmien_Valiin:0 "Shoot the Holmgardr"
+ Vapaussoturin_Valloituslaulu:0 "Hymn of the Free Finnlandr"
+ Sakkijarven_Polkka:0 "Polka of Sakkijarvi"
+ Kaenlandi_Polkka:0 "Polka of Kaenland"
+ Pa_Vikingtog:0 "Song of the Vinlandr Volunteers"
+ Tachanka:0 "Tachanka"
+ Guillotine_Permanente:0 "Consul Guillotin's Medicine"
+ Oktobersong:0 "Oktobersong"
+ No_Mercy_to_Atlantists:0 "No Mercy to Atlanticists"
+ Ode_to_Frank_Unification:0 "Ode to Carolingian Unification"
+ Ode_to_Frank_Revolution:0 "Ode to Frank Revolution of 81"

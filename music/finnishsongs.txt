@@ -1,0 +1,71 @@
+music_station = "finnish"
+
+music = {
+	song = "Uraliin"
+	chance = {
+		modifier = {
+			factor = 2
+			FIN = {
+				has_war_with = SOV
+			}
+		}
+	}
+}
+music = {
+	song = "Silmien_Valiin"
+	chance = {
+		modifier = {
+			factor = 2
+			FIN = {
+				has_war_with = SOV
+			}
+		}
+	}
+}
+music = {
+	song = "Vapaussoturin_Valloituslaulu"
+	chance = {
+		modifier = {
+			factor = 2
+			FIN = {
+				has_war_with = SOV
+			}
+		}
+	}
+}
+music = {
+	song = "Sakkijarven_Polkka"
+	chance = {
+		modifier = {
+			factor = 2
+			FIN = {
+				has_war_with = SOV
+			}
+		}
+	}
+}
+music = {
+	song = "Kaenlandi_Polkka"
+	chance = {
+		modifier = {
+			factor = 2
+			FIN = {
+				has_war_with = SOV
+			}
+		}
+	}
+}
+music = {
+	song = "Pa_Vikingtog"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				FIN = {
+					has_war_with = SOV
+				}
+				tag = CAN
+			}
+		}
+	}
+}
