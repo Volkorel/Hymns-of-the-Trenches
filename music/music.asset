@@ -19,7 +19,21 @@ music = {
 }
 
 # Atlanticist War:
-# Nothing yet
+music = {
+	name = "Sarie_Marais"
+	file = "Sarie_marais.ogg"
+	volume = 0.65
+}
+music = {
+	name = "La_Cucaracha"
+	file = "LaCucaracha.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Erika"
+	file = "Erika.ogg"
+	volume = 0.65
+}
 
 # Gamleby Pact Peace:
 music = {
@@ -27,9 +41,18 @@ music = {
 	file = "axis_peace_krakow.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Lili_Marleen"
+	file = "lilimarleen.ogg"
+	volume = 0.65
+}
 
 # Gamleby Pact War:
-# Nothing yet
+music = {
+	name = "Wolfingslied"
+	file = "Wolflingslied.ogg"
+	volume = 0.65
+}
 
 # Latin Peace:
 # Nothing yet

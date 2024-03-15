@@ -13,3 +13,43 @@ music = {
 		}		
 	}	
 }
+
+music = {
+	song = "Sarie_Marais"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_war = yes
+			OR = {
+				tag = SAF
+				is_in_faction_with = SAF
+			}
+		}
+	}
+}
+music = {
+	song = "La_Cucaracha"
+	chance = {
+		modifier = {
+			factor = 2
+			has_war = yes
+			OR = {
+				tag = SAF
+				is_in_faction_with = SAF
+			}
+		}
+	}
+}
+music = {
+	song = "Erika"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = SAF
+				is_in_faction_with = SAF
+			}
+		}
+	}
+}

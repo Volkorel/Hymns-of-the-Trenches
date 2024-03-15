@@ -7,8 +7,36 @@ music = {
 		modifier = {
 			factor = 2
 			OR = {
-				tag = SOV
-				is_in_faction_with = SOV
+				tag = GER
+				is_in_faction_with = GER
+			}
+		}		
+	}	
+}
+
+music = {
+	song = "Wolfingslied"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			has_war = yes
+			OR = {
+				tag = GER
+				is_in_faction_with = GER
+			}
+		}
+	}
+}
+music = {
+	song = "Lili_Marleen"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+				is_in_faction_with = GER
 			}
 		}		
 	}	
